@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "stack.h"
-
+// Main programs
 int main() {
     Stack myStack;
     init(&myStack);
